@@ -16,7 +16,7 @@ Es la tercera capa del pastel de los estándares en las tecnologías para la web
 ## Ejemplo:
  Vamos a ver un ejemplo sencillo de una calculadora hecha en JavaScript y HTML.
 
-![Calculadora]()
+![](https://raw.githubusercontent.com/cesarAlonsolll/Calculadora/master/Calculadora.PNG)
 
 
 
